@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+    --color-blue-900 : #5046e4;
+    --color-blue-500 : #3b32ad;
+    --color-blue-300 : #e0e7ff;
+
+    --color-white-300 : #f9fbfc;
+    --color-grey-500 : #e6e8ea;
+    --color-grey-600 : #373848;
+    --color-black-700 : #3f4046;
+    --color-grey-300 : #cfd9de;
+}
+
+@keyframes fade-in-characters {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.animate-fade-in-characters span {
+  opacity: 0;
+  animation: fade-in-characters 0.4s forwards; /* Faster transition time */
+  animation-delay: calc(var(--char-index) * 50ms); /* 50ms delay between characters */
+}
+
+
+  

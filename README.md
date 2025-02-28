@@ -67,7 +67,7 @@ We welcome contributions to MindSnap! If you'd like to contribute, please follow
 
 Acknowledgements :
 
-. React for building the UI
-. Tailwind CSS for styling the application
-. MongoDB for the database
-. JWT for user authentication
+- React for building the UI
+- Tailwind CSS for styling the application
+- MongoDB for the database
+- JWT for user authentication

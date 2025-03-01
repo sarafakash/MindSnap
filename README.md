@@ -25,6 +25,17 @@ MindSnap is a web-based application that allows users to save, organize, and sha
 
 ---
 
+## Screenshots
+
+<img width="953" alt="1" src="https://github.com/user-attachments/assets/11523c81-62e5-4db0-a4e9-c58c7b8ccfa1" />
+
+<img width="954" alt="2" src="https://github.com/user-attachments/assets/fc73e8e8-e342-4dd8-ad56-0b7098255ce0" />
+
+<img width="941" alt="3" src="https://github.com/user-attachments/assets/33a9c78a-1f6f-4996-91ef-95de2986d020" />
+
+
+
+
 ## Installation & Setup
 
 To run the project locally, follow the steps below:
